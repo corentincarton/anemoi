@@ -1,0 +1,12 @@
+[submodule "anemoi-graphs"]
+	path = anemoi-graphs
+	url = git@github.com:ecmwf/anemoi-graphs
+	branch = develop
+[submodule "anemoi-models"]
+	path = anemoi-models
+	url = git@github.com:ecmwf/anemoi-models
+	branch = develop
+[submodule "anemoi-training"]
+	path = anemoi-training
+	url = git@github.com:ecmwf/anemoi-training
+	branch = develop
